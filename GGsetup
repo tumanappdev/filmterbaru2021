@@ -1,0 +1,9 @@
+{
+"host" : "http://sobatkeren.com/",
+"host_logo" : "http://sobatkeren.com/img/sobatmovielogo.png",
+"host_package" : "com.layar21.indo",
+"cekGG" : true,
+"ipGG" : "",
+"apkGG" : "com.facebook.katana~com.twitter.android~com.instagram.android~com.whatsapp",
+"reverse" : false
+}
