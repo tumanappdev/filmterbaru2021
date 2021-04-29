@@ -9,8 +9,8 @@
 "thumbPromote" : "https://4.bp.blogspot.com/-SNkm8EDw0yM/WVfYk291GOI/AAAAAAAAHXQ/bE-FTh_bafYDgyfWM2YHEHy70E8e1GCGwCLcBGAs/s150/Triangle.png",
 
 "adsInterval" : 5,
-"useFAN" : true,
+"useFAN" : false,
 "country" : "Japan, Thailand, Vietnames, Turki",
-"dbVersion" : 1,
+"dbVersion" : 2,
 "useVPN" : true
 }
