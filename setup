@@ -11,6 +11,6 @@
 "adsInterval" : 5,
 "useFAN" : false,
 "country" : "Japan, Thailand, Vietnames, Turki",
-"dbVersion" : 2,
+"dbVersion" : 1,
 "useVPN" : true
 }
