@@ -1,6 +1,6 @@
 {
-"maintenance" : false,
-"isUpdate" : false,
+"maintenance" : true,
+"isUpdate" : true,
 "logo" : "https://github.com/lionx123/halah/raw/master/logobanner.png",
 
 "urlPromote" : "https://play.google.com/store/apps/details?id=com.tencent.ig",
